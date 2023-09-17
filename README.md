@@ -6,5 +6,5 @@
 </ul> 
 <h4>IDK YET</h4>
 <ul>
- <li>some thing idk</li>
+ <li>something idk</li>
 </ul>
