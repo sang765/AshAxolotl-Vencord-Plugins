@@ -10,5 +10,10 @@
 </ul>
 
 # Install Guide
-<p>install <a href=https://github.com/Vendicated/Vencord/blob/main/docs/1_INSTALLING.md>Vencord</a></p>
-<p>place the plugins inside the userplugins folder (vencord/src/userplugins)</p>
+<ol>
+  <li>install <a href=https://github.com/Vendicated/Vencord/blob/main/docs/1_INSTALLING.md>Vencord</a></li>
+  <li>place the plugins inside the userplugins folder (vencord/src/userplugins)</li>
+  <li>rebuild and inject</li>
+  <li>enable the plugin</li>
+</ol>
+<p>if you have any trouble installing try asking in the <a href="https://discord.com/invite/D9uwnFnqmd">Vencord Discord Server.</a></p>
