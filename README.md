@@ -1,4 +1,4 @@
-# Vencord-Plugins
+# Plugins
 <h4>Randomize-Commands: </h4>
  <ul>
   <li>adds the /coin command that flips a coin</li>
@@ -8,3 +8,6 @@
 <ul>
  <li>something idk</li>
 </ul>
+
+# Install Guide
+<p>install vencord using a <a href="[url](https://github.com/Vendicated/Vencord/blob/main/docs/1_INSTALLING.md)https://github.com/Vendicated/Vencord/blob/main/docs/1_INSTALLING.md">custom build</a></p>
