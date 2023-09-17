@@ -10,4 +10,4 @@
 </ul>
 
 # Install Guide
-<p>install vencord using a <a href="[url](https://github.com/Vendicated/Vencord/blob/main/docs/1_INSTALLING.md)https://github.com/Vendicated/Vencord/blob/main/docs/1_INSTALLING.md">custom build</a></p>
+<p>install vencord using a <a href=https://github.com/Vendicated/Vencord/blob/main/docs/1_INSTALLING.md>custom build</a></p>
