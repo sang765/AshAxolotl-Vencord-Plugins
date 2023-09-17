@@ -44,7 +44,7 @@ export default definePlugin({
         {
             name: "select-random",
             description: "selects a random word from your input",
-            options: [OptionalMessageOption],
+            options: [RequiredMessageOption],
             execute: opts => ({
                 content: "From " + findOption(opts, "message", "") + " randomly selected: " + GetRandomFromString(findOption(opts, "message", "")) 
             }),
