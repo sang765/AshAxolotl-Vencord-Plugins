@@ -10,4 +10,5 @@
 </ul>
 
 # Install Guide
-<p>install vencord using a <a href=https://github.com/Vendicated/Vencord/blob/main/docs/1_INSTALLING.md>custom build</a></p>
+<p>install <a href=https://github.com/Vendicated/Vencord/blob/main/docs/1_INSTALLING.md>Vencord</a></p>
+<p>place the plugins inside the userplugins folder (vencord/src/userplugins)</p>
