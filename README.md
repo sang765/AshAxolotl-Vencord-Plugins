@@ -15,8 +15,8 @@
 
 # Install Guide
 <ol>
-  <li>install <a href=https://github.com/Vendicated/Vencord/blob/main/docs/1_INSTALLING.md>Vencord</a></li>
+  <li>follow the guide here https://github.com/Vendicated/Vencord/blob/main/docs/1_INSTALLING.md (MAKE SURE TO READ THE WARNING!)</li>
   <li>place the plugins inside the userplugins folder (vencord/src/userplugins)</li>
-  <li>run pnpm build and pnpm inject</li>
+  <li>run pnpm build and pnpm inject again </li>
   <li>enable the plugin in discord settings</li>
 </ol>
