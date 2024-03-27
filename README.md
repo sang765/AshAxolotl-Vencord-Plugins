@@ -18,4 +18,3 @@
   <li>run pnpm build and pnpm inject</li>
   <li>enable the plugin in discord settings</li>
 </ol>
-<p>if you have any trouble installing try asking in the <a href="https://discord.com/invite/D9uwnFnqmd">Vencord Discord Server.</a></p>
